@@ -34,44 +34,44 @@ npm install --save node-spotify-api
 ```bash
 node liri.js 
 ```
-![liri](images/liri)
+![liri](images/liri.png)
 
 * Find concerts
 ```bash
 node liri.js concert-this lady gaga
 ```
-![concert-gaga](images/concert-ladygaga)
+![concert-gaga](images/concert-ladygaga.png)
 
 ```bash
 node liri.js concert-this adam levine
 ```
-![concert-adam](images/concert-adam)
+![concert-adam](images/concert-adam.png)
 
 * Find songs
 ```bash
 node liri.js spotify-this-song yesterday
 ```
-![spotify-yesterday](images/spotify-yesterday)
+![spotify-yesterday](images/spotify-yesterday.png)
 
 ```bash
 node liri.js spotify-this-song
 ```
-![spotify](images/spotify)
+![spotify](images/spotify.png)
 
 * Find movies
 ```bash
 node liri.js movie-this avengers
 ```
-![movie-avengers](images/movie-this-avengers)
+![movie-avengers](images/movie-this-avengers.png)
 
 ```bash
 node liri.js movie-this 
 ```
-![movie](images/movie-this)
+![movie](images/movie-this.png)
 
 * Read Files
 ```bash
 node liri.js do-what-it-says
 ```
-![do-what-it-says](images/do-what-it-says)
+![do-what-it-says](images/do-what-it-says.png)
 
